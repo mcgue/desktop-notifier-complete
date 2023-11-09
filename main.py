@@ -1,5 +1,6 @@
 # Sends notification to desktop
 # Notifications need to be enabled on Windows in order to work
+# This is finished.
 
 # import necessary
 import time
